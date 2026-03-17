@@ -14,15 +14,14 @@ Portfolio with my most recent projects focused on Aerodynamics. It includes:
   * Yaw probe calibration
   * Comparison of wind tunnel data acquisition systems  
 * Aero performance development 
-* Telemetry analysis with:
-  * Correlation of aero set-up changes with vehicle dynamics
+* Telemetry analysis and comparison of three aero set-ups
 
 ### "ACC CATIA3DX Portfolio"
 
 Dedicated portfolio to showcase my work in aerodynamic CAD modelling. It includes:
 
 * Parametric modelling of an F1 nose cone
-* T-Wing final project which consists of:
+* T-Wing final project consisting of:
   * Surface modelling
   * Solid modelling
   * Technical drawings  
