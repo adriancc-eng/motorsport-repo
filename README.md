@@ -15,4 +15,4 @@ PDF file with my most recent projects focused on Aerodynamics. It includes:
   * Comparison of wind tunnel data acquisition systems  
 * Aero performance development 
 * Telemetry analysis with:
-  * Correlation of aerodynamic phenomena on vehicle dynamics  
+  * Correlation of aero set-up changes with vehicle dynamics  
