@@ -8,12 +8,12 @@
 
 Portfolio with my most recent projects focused on Aerodynamics. It includes: 
 
-* CAD modelling
 * Experimental research based on:
   * Wind tunnel testing
   * Yaw probe calibration
   * Comparison of wind tunnel data acquisition systems  
-* Aero performance development 
+* Aero map generation with iRacing telemetry 
+* Development of a sidepod cooling adapter 
 * Telemetry analysis and comparison of three aero set-ups
 
 ### "ACC USF2000 Data Analysis"
@@ -27,7 +27,7 @@ Detailed report that outlines the comparison between three aero set-ups of an US
 
 ### "ACC CATIA3DX Portfolio"
 
-Dedicated portfolio to showcase my work in aerodynamic CAD modelling. It includes:
+Dedicated portfolio to showcase my work in aerodynamic CAD modelling using CATIA3DX. It includes:
 
 * Parametric modelling of an F1 nose cone
 * T-Wing final project consisting of:
@@ -35,4 +35,4 @@ Dedicated portfolio to showcase my work in aerodynamic CAD modelling. It include
   * Solid modelling
   * Technical drawings
 * Design of a double element rear wing
-* Course learnings presented to prospective students in a [round table event](https://motorsportengineer.net/webinars/cad-design-round-table-batch-5/)   
+* Course learnings presented to prospective students in a [round table event](https://motorsportengineer.net/webinars/cad-design-round-table-batch-5/) 
