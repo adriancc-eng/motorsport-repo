@@ -16,6 +16,15 @@ Portfolio with my most recent projects focused on Aerodynamics. It includes:
 * Aero performance development 
 * Telemetry analysis and comparison of three aero set-ups
 
+### "ACC USF2000 Data Analysis"
+
+Detailed report that outlines the comparison between three aero set-ups of an USF2000 car using MoTeC i2. The analysis focuses in:
+* Drag induced losses
+* Downforce levels divided in:
+  * Front downforce
+  * Rear downforce
+  * Aero balance
+
 ### "ACC CATIA3DX Portfolio"
 
 Dedicated portfolio to showcase my work in aerodynamic CAD modelling. It includes:
