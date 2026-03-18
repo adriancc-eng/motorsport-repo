@@ -24,4 +24,6 @@ Dedicated portfolio to showcase my work in aerodynamic CAD modelling. It include
 * T-Wing final project consisting of:
   * Surface modelling
   * Solid modelling
-  * Technical drawings  
+  * Technical drawings
+* Design of a double element rear wing
+* Course learnings presented to prospective students in a [round table event](https://motorsportengineer.net/webinars/cad-design-round-table-batch-5/)   
