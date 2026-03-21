@@ -15,6 +15,7 @@ Portfolio with my most recent projects focused on Aerodynamics. It includes:
 * Aero map generation with iRacing telemetry 
 * Development of a sidepod cooling adapter 
 * Telemetry analysis and comparison of three aero set-ups
+* Additional - KPI analysis of an ecommerce using Machine Learning
 
 ### "ACC USF2000 Data Analysis"
 
